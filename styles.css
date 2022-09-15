@@ -112,7 +112,7 @@
   }
     
     #index {
-    position: absolute;
+    position: inherit;
     top:0;
     left: 25%;
     right: 25%;
