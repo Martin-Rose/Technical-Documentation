@@ -38,10 +38,14 @@
     font-size: 40px;
   }
   
-  p, .nav-link, li {
+  p, .nav-link {
     font-size: 20.5px;
     color: grey;
     line-height: 30px;
+  }
+  
+  ul {
+    font-size: 20.5px;
   }
   
   #nav {
@@ -88,11 +92,11 @@
   
   .p-links:visited {
     text-decoration: none;
-    color: black;
+    color: grey;
   }
   
   .p-links:link {
-    color: black;
+    color: grey;
     background-color: rgb(240,240,240);
     border-radius: 3px;
     padding-left: 4px;
@@ -128,7 +132,7 @@
   #technical-content {
     padding: 25px;
     position: absolute;
-    top: 35%;
+    top: 400;
     left: 0;
     margin-left: auto;
     margin-right: auto;
